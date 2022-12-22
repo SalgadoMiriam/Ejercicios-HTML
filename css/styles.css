@@ -1,0 +1,22 @@
+h2{
+    color: coral;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
+
+*{
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subtitulo{
+    color: brown;
+}
+
+img
+{
+    border-radius:25px;
+   /*border-style:dotted; border-width:7px */
+}
+
+
