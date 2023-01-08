@@ -19,4 +19,26 @@ img
    /*border-style:dotted; border-width:7px */
 }
 
+.tabla1{
+    text-align: center;
+    border:3px solid rgb(138, 55, 55);
+   
+}
+
+td,th {
+    text-align: center;
+    border: 1px solid black;
+    border-bottom: hidden;
+    border-right: hidden;
+    padding: 5px;
+}
+
+.libros{
+    color: rgb(110, 32, 4);
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+
+
 
